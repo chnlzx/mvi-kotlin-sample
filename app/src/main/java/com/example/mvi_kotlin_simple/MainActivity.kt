@@ -63,7 +63,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
         lifecycleScope.launchWhenStarted {
 
 //            if (model.uistateFlow is UIState.UIBannerState) {
